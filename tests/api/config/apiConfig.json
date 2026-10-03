@@ -1,0 +1,8 @@
+{
+  "endpoints": {
+    "createUser": "/users"
+  },
+  "headers": {
+    "contentType": "application/json"
+  }
+}
