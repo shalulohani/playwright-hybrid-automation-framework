@@ -1,6 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","7168","Verify login page title","","2026-10-03","passed","2026-10-03","","ui\login.spec.ts","",""
-"","555","GET Users API returns 200","","2026-10-03","passed","2026-10-03","","tests\api\getUsers.spec.ts","",""
-"","4293","get started link","","2026-10-03","passed","2026-10-03","","e2e\example.spec.ts","",""
-"","1549","Create user with reusable token","","2026-10-03","passed","2026-10-03","","tests\api\createUser.spec.ts","",""
-"","9205","has title","","2026-10-03","passed","2026-10-03","","e2e\example.spec.ts","",""
